@@ -15,7 +15,7 @@ Helping businesses make **data-driven decisions** and optimize their marketing s
 ✅ Easy-to-use interface  
 
 ## ### 📊 Dashboard Preview
-[Marketing Dashboard](dashboard_preview.png)
+Dashboard Preview
 
 ## How to Use
 1. Open the `.pbix` file in **Power BI**.  
