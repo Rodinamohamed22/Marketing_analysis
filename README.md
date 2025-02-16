@@ -15,6 +15,7 @@ Helping businesses make **data-driven decisions** and optimize their marketing s
 ✅ Easy-to-use interface  
 
 ## ### 📊 Dashboard Preview
+https://github.com/Rodinamohamed22/Trend-Vista-Marketing-Analysis/blob/main/Dashboard%20Preview.png
 
 
 ## How to Use
