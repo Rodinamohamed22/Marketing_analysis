@@ -14,11 +14,9 @@ Helping businesses make **data-driven decisions** and optimize their marketing s
 ✅ Clear KPIs to measure success  
 ✅ Easy-to-use interface  
 
-## ### 📊 Dashboard Preview
-## 📊 Dashboard Preview
-(Dashboard_Preview.png)
+ ### 📊 Dashboard Preview
 
-
+Dashboard Preview.png
 
 ## How to Use
 1. Open the `.pbix` file in **Power BI**.  
