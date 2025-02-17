@@ -16,7 +16,7 @@ Helping businesses make **data-driven decisions** and optimize their marketing s
 
 ## ### 📊 Dashboard Preview
 ## 📊 Dashboard Preview
-![Marketing Dashboard](Dashboard_Preview.png)
+(Dashboard_Preview.png)
 
 
 
