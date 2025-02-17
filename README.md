@@ -14,6 +14,15 @@ Helping businesses make **data-driven decisions** and optimize their marketing s
 ✅ Clear KPIs to measure success  
 ✅ Easy-to-use interface  
 
+## Technologies Used  
+- Power BI  
+- Data Processing
+- Power Query
+- SQL  
+- Excel  
+- Business Intelligence  
+- Data Visualization  
+
 ## How to Use
 1. Open the `.pbix` file in **Power BI**.  
 2. Use the filters to analyze different metrics.  
