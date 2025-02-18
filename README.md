@@ -4,7 +4,8 @@
 This Power BI dashboard provides an **interactive marketing performance analysis**, offering insights into:
 - 📈 Income trends  
 - 👥 Customer behavior  
-- 🎯 Campaign success rates  
+- 🎯 Campaign success rates
+- 📈 Country engagement rates
 
 Helping businesses make **data-driven decisions** and optimize their marketing strategies.  
 
